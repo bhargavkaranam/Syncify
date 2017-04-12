@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "954501005891",
+    "firebase_url": "https://syncify-d98e3.firebaseio.com",
+    "project_id": "syncify-d98e3",
+    "storage_bucket": "syncify-d98e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954501005891:android:1ffbd12a0c81295e",
+        "android_client_info": {
+          "package_name": "com.example.syncify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954501005891-m3t3c6oi53hcn7jndvnd0ftj09ir8kof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syncify",
+            "certificate_hash": "7e8d39edf2f9d192f71c11c98125122df6b4999c"
+          }
+        },
+        {
+          "client_id": "954501005891-s0haq8909n5reqrhr3atrvbdnia52fiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe-hovu4rwfu8Gj64tPVYW3eRWEfDgbkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954501005891-s0haq8909n5reqrhr3atrvbdnia52fiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954501005891:android:3e13d76c79b42e32",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954501005891-s0haq8909n5reqrhr3atrvbdnia52fiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe-hovu4rwfu8Gj64tPVYW3eRWEfDgbkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954501005891:android:f7b44acc79a8eb4b",
+        "android_client_info": {
+          "package_name": "com.example.root.syncify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954501005891-0o5sdvf5crqhugm8o14o7sokempdsbab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.syncify",
+            "certificate_hash": "3008a8e1fea8fddf839f439435cc17aa31150a1b"
+          }
+        },
+        {
+          "client_id": "954501005891-s0haq8909n5reqrhr3atrvbdnia52fiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe-hovu4rwfu8Gj64tPVYW3eRWEfDgbkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954501005891-s0haq8909n5reqrhr3atrvbdnia52fiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
